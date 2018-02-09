@@ -2,11 +2,12 @@
 
 Python code of Causal Detection model.
 
-Refference
-[ica_lingam.py](http://www.jmlr.org/papers/volume7/shimizu06a/shimizu06a.pdf)
+Refference \
 
-[direct_lingam.py](http://www.jmlr.org/papers/volume12/shimizu11a/shimizu11a.pdf)
+1. [ica_lingam.py](http://www.jmlr.org/papers/volume7/shimizu06a/shimizu06a.pdf)
 
-[lingam_gc.py](https://pdfs.semanticscholar.org/a767/cac3b8a71ddbedff809b18ed78245aa6744d.pdf)
+1. [direct_lingam.py](http://www.jmlr.org/papers/volume12/shimizu11a/shimizu11a.pdf)
 
-[r_c4.py](http://proceedings.mlr.press/v13/hyvarinen10a/hyvarinen10a.pdf)
+1. [lingam_gc.py](https://pdfs.semanticscholar.org/a767/cac3b8a71ddbedff809b18ed78245aa6744d.pdf)
+
+1. [r_c4.py](http://proceedings.mlr.press/v13/hyvarinen10a/hyvarinen10a.pdf)
